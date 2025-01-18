@@ -1,2 +1,2 @@
 # bookbot
-Scan books and and summarize them
+BookBot is my first project!
